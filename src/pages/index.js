@@ -46,19 +46,19 @@ class Homepage extends React.Component {
                         <div className="col-4">
                             <span className="image fit"><img src={pic02} alt="" /></span>
                             <h3>Programación</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <p></p>
                             <p></p><p></p>
                         </div>
                         <div className="col-4">
                             <span className="image fit"><img src={pic04} alt="" /></span>
                             <h3>Diseño e impresión 3D</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <p></p>
                             <p></p><p></p>
                         </div>
                         <div className="col-4">
                             <span className="image fit"><img src={pic03} alt="" /></span>
                             <h3>Electrónica</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <p></p>
                             <p></p><p></p>
                         </div>
 
