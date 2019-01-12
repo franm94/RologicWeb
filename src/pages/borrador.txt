@@ -1,0 +1,4 @@
+<li><span className="icon style1 major fa-code"></span></li>
+<li><span className="icon style2 major fa-bolt"></span></li>
+<li><span className="icon style5 major fa-desktop"></span></li>
+<li><span className="icon style6 major fa-mixcloud"></span></li>
